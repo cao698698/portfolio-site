@@ -1,0 +1,35 @@
+:root {
+  color-scheme: dark;
+  background: #020515;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  background: #020515;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background: #020515;
+}
+
+main {
+  display: block;
+  width: min(100%, 1920px);
+  margin: 0 auto;
+  padding: 0;
+  gap: 0;
+  line-height: 0;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
